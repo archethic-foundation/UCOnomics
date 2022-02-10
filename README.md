@@ -23,3 +23,6 @@ Gamification & Geo Incentives (3.44%): Used to reward nodes in the parts of the 
 being hooked-on the network. Gamification would be at the heart of achieving both the objectives. 
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/75987671/153365191-423f2c38-1fd4-42ef-8e6a-7fcf16939700.png">
+
+
+Link to the UCOnomics Paper: https://archethic.net/ARCHEthic_UCOnomics.pdf
